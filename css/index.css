@@ -1,0 +1,14 @@
+body{  
+
+    padding :0;
+    margin :0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: auto;
+    background: url(/assets/img/bg_index.jpg) no-repeat;
+    background-position: center;
+}
+html, body {
+    height: 100%;
+}
