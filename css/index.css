@@ -6,9 +6,17 @@ body{
     top: 0;
     left: 0;
     overflow: auto;
+    
+    background-color: #FBF7C9;
+    
+    /*
     background: url(/assets/img/bg_index.jpg) no-repeat;
     background-position: center;
+    */
 }
 html, body {
     height: 100%;
+}
+canvas{
+    outline: #B5B292 2px solid;
 }
