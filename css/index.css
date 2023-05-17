@@ -7,9 +7,10 @@ body{
     left: 0;
     overflow: auto;
     
-    background-color: #FBF7C9;
+    background-color: #000000;
     
     /*
+    background-color: #FBF7C9;
     background: url(/assets/img/bg_index.jpg) no-repeat;
     background-position: center;
     */
